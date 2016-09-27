@@ -1,0 +1,34 @@
+body
+{
+    background-image: url("soccer.jpg");
+    Background-size: cover;
+    text-align:left;
+}
+#youtube
+{
+    
+}
+p.bio
+{
+    color:white;
+    font-size: 25px;
+	font-family: Tahoma;
+
+}
+#header
+{
+    color:white;
+    font-size: 30px;
+   
+    font-weight: bold;
+}
+#link
+{
+    color:white;
+}
+a
+{
+ color:white;
+    font-size: 25px;
+	font-family: Tahoma;
+}
